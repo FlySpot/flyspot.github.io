@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/FlySpot/flyspot.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Page about Java
+Just click on [Java link](https://flyspot.github.io/JavaLabsBeginerLevel/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
